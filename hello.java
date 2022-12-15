@@ -1,2 +1,2 @@
 public class hello{
-	public static main{
+	public static main{fsdfsd
